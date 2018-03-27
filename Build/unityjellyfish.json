@@ -1,0 +1,13 @@
+{
+"companyName": "Dog1027",
+"productName": "Jellyfish",
+"dataUrl": "unityjellyfish.data.unityweb",
+"asmCodeUrl": "unityjellyfish.asm.code.unityweb",
+"asmMemoryUrl": "unityjellyfish.asm.memory.unityweb",
+"asmFrameworkUrl": "unityjellyfish.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
